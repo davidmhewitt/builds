@@ -1,15 +1,22 @@
 {
-  "users": [
+  users: [
+    // elementary first party developers
+    "aroman",
+    "btkostner",
+    "cassidyjames",
+    "danrabbit",
+    "davidmhewitt",
+    "lewisgoddard",
+    "kgrubb",
+
+    // AppCenter backers
     "aia832003",
     "amzamora",
     "Antiz96",
-    "aroman",
     "barnscott",
     "BergischNRW",
     "bertelking",
     "BigDaddyLinux",
-    "btkostner",
-    "cassidyjames",
     "CatoGaustad",
     "carniz",
     "cdmatter",
@@ -17,8 +24,6 @@
     "Christiangnuxyz",
     "CodedOre",
     "danlin",
-    "danrabbit",
-    "davidmhewitt",
     "dbatsche",
     "djmorris71",
     "dummypurse42",
@@ -36,11 +41,9 @@
     "jamick",
     "jerrywalraven",
     "joeress",
-    "kgrubb",
     "killyourfm",
     "laptopwithlinux",
     "leoherzog",
-    "lewisgoddard",
     "LievenHanssen",
     "linuxr01",
     "lucksidedown",
